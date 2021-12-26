@@ -5,6 +5,14 @@ Objective: Both players are given a card with a table with random numbers. The h
 
 Controls: Host draws a number by pressing a button. If players get 5 numbers in a row (highlighted green) they win!
 
+To run:
+    
+  1. Download the project
+    
+  2. Import in the IDE or compile using the command line
+    
+  3. Run src/application/BingoGameApplication.class
+
 **Screenshots**
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/92695424/147415768-05f0870f-d3d5-41c1-8f6a-3352aaec873d.png">
 
